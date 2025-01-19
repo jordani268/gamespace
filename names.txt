@@ -1,0 +1,28 @@
+Platforms:
+Android', 'Classic Macintosh', 'Dreamcast', 'Game Boy Advance', 'GameCube', 'Linux', 
+'Nintendo 3DS', 'Nintendo 64', 'Nintendo DS', 'Nintendo Switch', 'PC', 'PS Vita', 'PlayStation', 
+'PlayStation 2', 'PlayStation 3', 'PlayStation 4', 'PlayStation 5', 'SEGA Saturn', 'Web', 'Wii', 
+'Wii U', 'Xbox', 'Xbox 360', 'Xbox One', 'Xbox Series S/X', 'iOS', 'macOS
+
+Genres:
+Action
+Adventure
+Arcade
+Board Games
+Card
+Casual
+Educational
+Family
+Fighting
+Indie
+Massively Multiplayer
+Platformer
+Puzzle
+RPG
+Racing
+Shooter
+Simulation
+Sports
+Strategy
+
+These are only from filtering the first 50 pages of games, there is a small chance there may be more.
